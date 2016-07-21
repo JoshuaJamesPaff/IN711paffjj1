@@ -35,15 +35,20 @@ public class Decipher {
     
     //reads the first 10 keys and first 10 quotes into 2 arraylists
     public static void ReadText() throws IOException{
+        int numberKeys = 0;
         int counter = 0;
         for (String line : Files.readAllLines(Paths.get("ViginereTestInput.txt"))) {
-            if(counter < 10){
-                keys.add(line);
+            if(counter ==0){
+                numberKeys = Integer.parseInt(line); 
             }else{
-                quotes.add(line);
+                if(counter < numberKeys +1){
+                    keys.add(line);
+                }else{
+                    quotes.add(line);
+                }
             }
             counter++;
         }
-
+        
     }
 }

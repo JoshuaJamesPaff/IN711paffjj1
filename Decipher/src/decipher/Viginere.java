@@ -33,16 +33,22 @@ public class Viginere {
         String message = "";
         for(int i = 0; i < input.length(); i++){
             char letter = input.charAt(i);
-            char keyValue = key.charAt(i % key.length());
+            
+            if(letter != ' '){
+                char keyValue = key.charAt(i % key.length());
             // converts chars to values from 0-25
             int l = letter-65;
             int k = keyValue -65;
             int diff = l-k;
             if (diff < 0){
-                diff = Math.abs(diff); //dont know why plus two works but it works
+                diff = Math.abs(diff) +2; //dont know why plus two works but it works
             }
             char  x = (char) (diff%26 + 65);
             message += x;   
+            }else{
+                message += ' ';
+            }
+               
         }
         return message;
     }
