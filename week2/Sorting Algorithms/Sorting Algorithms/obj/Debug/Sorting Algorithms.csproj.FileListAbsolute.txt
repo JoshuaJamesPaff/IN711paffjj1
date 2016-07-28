@@ -1,0 +1,9 @@
+H:\ADS\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe.config
+H:\ADS\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.exe
+H:\ADS\Sorting Algorithms\Sorting Algorithms\bin\Debug\Sorting Algorithms.pdb
+H:\ADS\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting_Algorithms.Form1.resources
+H:\ADS\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting_Algorithms.Properties.Resources.resources
+H:\ADS\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.csproj.GenerateResource.Cache
+H:\ADS\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.exe
+H:\ADS\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.pdb
+H:\ADS\Sorting Algorithms\Sorting Algorithms\obj\Debug\Sorting Algorithms.csprojResolveAssemblyReference.cache

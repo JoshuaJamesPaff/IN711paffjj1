@@ -1,0 +1,7 @@
+H:\ADS\Sorting Algorithms\UnitTestSortingAlgorithms\bin\Debug\UnitTestSortingAlgorithms.dll
+H:\ADS\Sorting Algorithms\UnitTestSortingAlgorithms\bin\Debug\UnitTestSortingAlgorithms.pdb
+H:\ADS\Sorting Algorithms\UnitTestSortingAlgorithms\bin\Debug\Sorting Algorithms.exe
+H:\ADS\Sorting Algorithms\UnitTestSortingAlgorithms\bin\Debug\Sorting Algorithms.pdb
+H:\ADS\Sorting Algorithms\UnitTestSortingAlgorithms\obj\Debug\UnitTestSortingAlgorithms.csprojResolveAssemblyReference.cache
+H:\ADS\Sorting Algorithms\UnitTestSortingAlgorithms\obj\Debug\UnitTestSortingAlgorithms.dll
+H:\ADS\Sorting Algorithms\UnitTestSortingAlgorithms\obj\Debug\UnitTestSortingAlgorithms.pdb
